@@ -446,3 +446,33 @@ h6,
 .copyright a:hover {
     color: var(--light);
 }
+
+@media (max-width: 1303px)  {
+    .tcs{
+        font-size: 1.2rem;
+    }
+}
+
+@media (max-width: 1146px)  {
+    .tcs{
+        font-size: 0.7rem;
+    }
+}
+
+@media (max-width: 991px)  {
+    .tcs{
+        font-size: 1.3rem;
+    }
+}
+
+@media (max-width: 341px)  {
+    .tcs{
+        font-size: 1.1rem;
+    }
+}
+
+@media (max-width: 316px)  {
+    .tcs{
+        font-size: 0.9rem;
+    }
+}
